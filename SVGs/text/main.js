@@ -1,0 +1,11 @@
+var svg = d3.select("#chart-area")
+    .append("svg")
+        .attr("width", 400)
+        .attr("height", 400)
+
+var text = svg.append("text")
+    .attr("x", 200)
+    .attr("y", 200)
+    .text("This is the text!")
+    .attr("font-size", "20px")
+    .attr("fill", "orange")
