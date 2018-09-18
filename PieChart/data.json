@@ -1,0 +1,54 @@
+{
+    "Basic Development":{
+       "poverty":65.79310344827586,
+       "agricultur":37.58620689655172,
+       "export":74.55172413793103
+    },
+    "Vulnerability and Disparities":{
+       "inequality":63.55172413793103,
+       "unemployment":61.13793103448276
+    },
+    "Environmental Conditions & Infrastructure":{
+       "air pollution":65.20689655172414,
+       "food security":59.6551724137931,
+       "smart city":62.10344827586207
+    },
+    "Cultural preference for change":{
+       "disruption":51.724137931034484,
+       "gender equality":56.51724137931034,
+       "women empowerment":73.34482758620689,
+       "creativity":66.65517241379311,
+       "altruism":39.48275862068966,
+       "internet access":61.44827586206897
+    },
+    "Relevant absorptive capacity":{
+       "digital banking":51.86206896551724,
+       "microfinance":64.0,
+       "venture capital":48.55172413793103,
+       "skill development":71.13793103448276,
+       "young entrepreneurs":30.689655172413794
+    },
+    "Governance":{
+       "legal right":32.6551724137931,
+       "corrupt":68.27586206896552,
+       "bribery":43.41379310344828,
+       "e-government":14.724137931034482
+    },
+    "All":{
+        "digital banking":51.86206896551724,
+       "microfinance":64.0,
+       "venture capital":48.55172413793103,
+       "skill development":71.13793103448276,
+       "young entrepreneurs":30.689655172413794,
+       "legal right":32.6551724137931,
+       "corrupt":68.27586206896552,
+       "bribery":43.41379310344828,
+       "e-government":14.724137931034482,
+       "disruption":51.724137931034484,
+       "gender equality":56.51724137931034,
+       "women empowerment":73.34482758620689,
+       "creativity":66.65517241379311,
+       "altruism":39.48275862068966,
+       "internet access":61.44827586206897
+    }
+ }
